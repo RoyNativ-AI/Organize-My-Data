@@ -1,0 +1,9 @@
+{
+  "type": "object",
+  "properties": {
+    "title": {"type": "string"},
+    "description": {"type": "string"},
+    "price": {"type": "string"},
+    "link": {"type": "string"}
+  }
+}

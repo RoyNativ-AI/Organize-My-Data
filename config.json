@@ -1,0 +1,5 @@
+{
+  "use_predefined_schema": false,
+  "custom_schema_file": "my_schema.json",
+  "model": "gpt-4o-mini"
+}
