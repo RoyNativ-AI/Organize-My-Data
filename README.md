@@ -14,7 +14,13 @@ Transform unstructured text into structured data using AI with guaranteed schema
 ## Installation
 
 ```bash
-pip install organize-my-data
+# Clone and install
+git clone https://github.com/RoyNativ-AI/Organize-My-Data.git
+cd Organize-My-Data
+pip install -r requirements.txt
+
+# Set your API key
+export OPENAI_API_KEY=your-key
 ```
 
 ## Quick Start
